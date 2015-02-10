@@ -1,0 +1,32 @@
+{
+  "name": "detect-engine",
+  "description": "Detect the node.js engine you're running on",
+  "version": "0.1.0",
+  "author": "silverwind <me@silverwind.io>",
+  "homepage": "https://github.com/silverwind/detect-engine",
+  "bugs": "https://github.com/silverwind/detect-engine/issues",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silverwind/detect-engine.git"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "^0.1.0",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-shell": "^1.1.1"
+  },
+  "keywords": [
+    "detect",
+    "engine",
+    "iojs",
+    "io.js",
+    "node",
+    "detection",
+    "platform",
+    "node",
+    "node.js",
+    "version"
+  ]
+}

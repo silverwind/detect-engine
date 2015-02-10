@@ -1,0 +1,17 @@
+# detect-engine [![NPM version](https://img.shields.io/npm/v/detect-engine.svg?style=flat)](https://www.npmjs.org/package/detect-engine) [![Dependency Status](http://img.shields.io/david/silverwind/detect-engine.svg?style=flat)](https://david-dm.org/silverwind/detect-engine)
+> Detect the node.js engine you're running on
+### Installation
+```
+$ npm install --save detect-engine
+```
+### Example
+```js
+var engine = require("detect-engine");
+
+if (engine === "iojs")
+    console.log("")
+```
+
+Currently, it returns either `'iojs'` or `'node'`.
+
+© 2015 [silverwind](https://github.com/silverwind), distributed under BSD licence
