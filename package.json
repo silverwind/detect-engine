@@ -20,13 +20,12 @@
   "keywords": [
     "detect",
     "engine",
+    "runtime",
     "iojs",
     "io.js",
     "node",
-    "detection",
-    "platform",
-    "node",
     "node.js",
-    "version"
+    "detection",
+    "platform"
   ]
 }
