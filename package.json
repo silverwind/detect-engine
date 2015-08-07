@@ -1,7 +1,7 @@
 {
   "name": "detect-engine",
   "description": "Detect whether you're running on node.js or io.js",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "author": "silverwind <me@silverwind.io>",
   "homepage": "https://github.com/silverwind/detect-engine",
   "bugs": "https://github.com/silverwind/detect-engine/issues",
