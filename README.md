@@ -1,4 +1,5 @@
-# detect-engine [![NPM version](https://img.shields.io/npm/v/detect-engine.svg?style=flat)](https://www.npmjs.org/package/detect-engine) [![Dependency Status](http://img.shields.io/david/silverwind/detect-engine.svg?style=flat)](https://david-dm.org/silverwind/detect-engine)
+# detect-engine
+[![](https://img.shields.io/npm/v/detect-engine.svg?style=flat)](https://www.npmjs.org/package/detect-engine) [![](https://img.shields.io/npm/dm/detect-engine.svg)](https://www.npmjs.org/package/detect-engine) [![](https://api.travis-ci.org/silverwind/detect-engine.svg?style=flat)](https://travis-ci.org/silverwind/detect-engine)
 > Detect whether you're running on node.js or io.js
 
 ### Installation
